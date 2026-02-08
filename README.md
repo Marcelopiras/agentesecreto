@@ -1,6 +1,7 @@
 # agentesecreto
 🕵️ Agente Secreto - Bot de Análise Política e Fact-Checking
-# 🕵️ Agente Secreto - Bot de Análise Política e Fact-Checking
+
+<img width="1523" height="518" alt="image" src="https://github.com/user-attachments/assets/1f614eb0-4575-4f58-8b44-847c86bee34f" />
 
 ![n8n](https://img.shields.io/badge/n8n-Workflow-orange?style=flat-square&logo=n8n)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql)
